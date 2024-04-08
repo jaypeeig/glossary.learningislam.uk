@@ -1,0 +1,5 @@
+baseURL = 'https://glossary.learningislam.uk/'
+languageCode = 'en-us'
+title = 'Glossary'
+
+theme = 'docsy'
